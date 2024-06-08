@@ -1,6 +1,8 @@
 [package]
 name = "burned"
 version = "0.1.0"
+description = "Rust macros to embed files into your binary"
+license = "MIT"
 edition = "2021"
 
 [lib]
